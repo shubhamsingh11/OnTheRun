@@ -1,0 +1,19 @@
+.mahindra {
+    position: absolute;
+    top : calc(50% - 2rem);
+    left : 35%;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.1em;
+    line-height: 1.6em; 
+    max-width: 50%;
+    color: whitesmoke;
+    display : flex;
+    align-items: center;
+}
+
+.loc {
+    vertical-align : middle;
+    height: 70px;
+    margin-right : 20px;
+    padding :  0px 0px 20px 0px;
+}

@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+.home {
+    background : url('../../images/image5.jpg') no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+    background-position:right center;
+    
+}
+
+.passenger {
+    font-family: 'Dancing Script', cursive;
+    position:absolute;
+    font-size: 2em;
+    line-height: 1.6em; 
+    top : calc(45% - 2rem);
+    left : 25%;
+    max-width: 50%;
+    color: whitesmoke;
+    text-align: center;
+}
